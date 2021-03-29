@@ -1,4 +1,4 @@
-input_file = "/Users/SuryaSteffia/Documents/pod/tech/pod1/dev/py/data_py/ip_text_sample.txt"
+input_file = "" #file location
 
 def print_all(f):
     print(f.read())
