@@ -1,5 +1,5 @@
 
-file_name = "/Users/SuryaSteffia/Documents/pod/tech/pod1/dev/py/data_py/ip_txt1.txt"
+file_name = "" #File Location
 print("We're going to erase %r." % file_name)
 print("If you don't want that, hit CTRL-C (^C).")
 print("If you do want that, hit RETURN.")
